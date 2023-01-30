@@ -28,3 +28,6 @@ An ERC20 token contract that has multiple function for a safe project. 100/100 t
 ### Max Wallet and Max Transaction
 * Edit Max transaction at line 952
 * Edit Max wallet at line 953
+
+
+## GOOD TO GO 🚀🌕
