@@ -21,7 +21,7 @@ An ERC20 token contract that has multiple function for a safe project. 100/100 t
 
 ### Total Supply
 * Edit Total Supply at line 950
-* [Example] 
+* Example
     * 1e9 = 1,000,000,000
     * 1e8 = 100,000,000
 
